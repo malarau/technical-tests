@@ -1,0 +1,6 @@
+# AutoLab
+AutoLab/.venv/*
+AutoLab/a_descargar_datos/data/*
+AutoLab/b_scraping/driver/*
+
+
